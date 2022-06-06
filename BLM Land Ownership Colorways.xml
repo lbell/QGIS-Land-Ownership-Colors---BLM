@@ -1,0 +1,892 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="BLM Oregon and California&#xa;Lands (O&amp;C)">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="254,230,191,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="0,0,0,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="254,230,191,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="BLM Wilderness Area">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="254,204,92,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="254,204,92,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="Bankhead-Jones Land Use Lands">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="252,205,207,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="252,205,207,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="Bureau of Land Management (BLM)">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="254,230,121,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="0,0,0,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="254,230,121,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="Bureau of Reclamation">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="255,255,179,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="255,255,179,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="IR Wilderness Area">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="253,154,82,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="253,154,82,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="Indian Reservation (IR)">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="253,180,108,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="253,180,108,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="Military Reservations and&#xa;Corps of Engineers">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="251,180,206,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="251,180,206,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="NPS Wilderness Area">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="177,137,193,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="177,137,193,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="National Grasslands">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="230,245,177,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="230,245,177,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="National Park Service (NPS)">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="202,189,220,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="202,189,220,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="Other Federal">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="228,196,159,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="228,196,159,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="Private">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="255,255,255,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="255,255,255,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="State">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="179,227,238,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="179,227,238,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="State Wilderness Area">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="107,207,226,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="107,207,226,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="State, County, City; Wildlife, Park&#xa;and Outdoor Recreation Areas">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="143,181,190,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="143,181,190,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="US Fish and Wildlife (USFW)&#xa;National Wildlife Refuge">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="127,204,167,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="0,0,0,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="127,204,167,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="US Forest Service (USFS)">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="204,235,197,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="204,235,197,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="USFS Oregon and California&#xa;Lands (O&amp;C)">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="179,222,105,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="179,222,105,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="USFS Wilderness Area">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="153,213,148,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="153,213,148,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" force_rhr="0" type="fill" alpha="1" tags="BLM Owner Standard" name="USFW Wilderness Area">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+        <Option type="Map">
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+          <Option value="102,191,127,255" type="QString" name="color"/>
+          <Option value="bevel" type="QString" name="joinstyle"/>
+          <Option value="0,0" type="QString" name="offset"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+          <Option value="MM" type="QString" name="offset_unit"/>
+          <Option value="35,35,35,0" type="QString" name="outline_color"/>
+          <Option value="no" type="QString" name="outline_style"/>
+          <Option value="0.26" type="QString" name="outline_width"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option value="solid" type="QString" name="style"/>
+        </Option>
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="color" v="102,191,127,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="35,35,35,0"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
